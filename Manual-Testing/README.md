@@ -2,8 +2,12 @@
 
 ## Project Overview
 
-This project demonstrates a structured manual software testing process
-performed on a web-based e-commerce application.
+This project demonstrates the practical application of software testing
+concepts studied as part of the ISTQB® Certified Tester Foundation Level
+(CTFL) syllabus.
+
+The testing will be performed on a web-based e-commerce application
+using a structured and exploratory testing approach.
 
 ## Application Under Test
 
@@ -11,9 +15,14 @@ SauceDemo
 
 ## Objective
 
-To evaluate the functional behavior of the application's core
-e-commerce workflows and identify defects through structured
-and exploratory testing.
+## Objective
+
+To apply the concepts and techniques learned from the ISTQB® Certified
+Tester Foundation Level (CTFL) syllabus through practical testing of
+a web-based e-commerce application.
+
+The project will be used to practice test analysis, test design,
+test execution, defect reporting, and test documentation.
 
 ## Testing Scope
 
