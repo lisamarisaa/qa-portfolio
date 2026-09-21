@@ -79,3 +79,32 @@ incluindo imagens e vídeos.
 
 O certificado de conclusão da formação encontra-se na pasta
 `certificado/`.
+.
+## Aplicação utilizada nos exercícios
+
+Os exercícios práticos foram realizados utilizando a plataforma
+**Bug Hunter QA**, uma aplicação web educacional desenvolvida por
+@Romoaldo Doliz para treino de Quality Assurance.
+
+A aplicação simula um sistema de e-commerce e permite praticar:
+
+- Identificação de bugs
+- Classificação de criticidade
+- Criação de casos de teste
+- Execução de testes funcionais
+- Registo e reporte de defeitos
+
+### Funcionalidades testadas
+
+- Registo e autenticação de utilizadores
+- Login e logout
+- Listagem e pesquisa de produtos
+- Filtros por categoria
+- Carrinho de compras
+- Checkout
+- Confirmação de pedidos
+- Dashboard e métricas
+
+### Plataforma
+
+[Bug Hunter QA](https://bug-hunter-academy.vercel.app/)
